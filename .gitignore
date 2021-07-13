@@ -1,0 +1,5 @@
+db_data.py
+scripts/db_data.py
+.ipynb_checkpoints/
+__pycache__/
+data
